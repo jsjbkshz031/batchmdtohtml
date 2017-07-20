@@ -1,0 +1,14 @@
+{
+  "name": "mdtohtml",
+  "version": "1.0.0",
+  "description": "recursion markdown directories,find *.md file,convert to html in the same directory",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "author": "David Song",
+  "license": "MIT",
+  "dependencies": {
+    "remarkable": "^1.6.2"
+  }
+}
